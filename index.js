@@ -29,3 +29,6 @@ const questions = [
         message: 'What would you like to name your logo'
     },
 ];
+
+
+init();
