@@ -21,7 +21,7 @@ const questions = [
     {
         type: 'input',
         name: 'shapeColor',
-        message: 'What color would you like your shape?'
+        message: 'What color (OR hexadecimal number) would you like your shape?'
     },
     {
         type: 'input',
